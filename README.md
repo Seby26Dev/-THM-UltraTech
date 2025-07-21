@@ -137,7 +137,6 @@ And we obtain root privilage with docker image
 
 ```
 docker run -v /:/mnt --rm -it bash chroot /mnt bash
-
 ```
 
 <img width="569" height="538" alt="image" src="https://github.com/user-attachments/assets/302ea503-83b3-449a-aee1-81088e6c97bf" />
